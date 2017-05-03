@@ -6,6 +6,7 @@
 *	Recommended: add description of your code.
 */
 
+// This is testing."	
 int getSum(int myArray[]);
 int getSumOfSquares(int myArray[]);
 void printAsChars(int myArray[]);
